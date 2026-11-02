@@ -11,6 +11,8 @@
 | E3 | Валяльщиков Д. А. | [@valyalshikovd](https://github.com/valyalshikovd) |
 | E4 | Мирошников А. С. | [@Arleqquinn](https://github.com/Arleqquinn) |
 
+[План закрытия открытых работ](PLAN.md)
+
 ## Фазы
 
 | Фаза | Материалы | Статус |
@@ -21,7 +23,7 @@
 | 4. Прогнозирование | [Фаза 4](phases/phase-04-forecasting/README.md) | Не начата; заготовка |
 | 5. Планирование | [Фаза 5](phases/phase-05-planning/README.md) | Не начата; заготовка |
 
-Расчёты обоих методов готовы. [МАИ и сопоставление](phases/phase-01-concept-selection/ahp.md) основаны на производных сравнениях центральных оценок; правило преобразования и анкета E3 требуют подтверждения команды.
+Расчёты обоих методов готовы. [МАИ и сопоставление](phases/phase-01-concept-selection/ahp.md) основаны на производных сравнениях центральных оценок. Для текущей версии приняты расчётная анкета E3 и описанное правило преобразования; выбор A1 проверен анализом чувствительности.
 
 ## Концепции
 
@@ -45,6 +47,8 @@
 
 Выбрана **A1 «Запись на приём к врачу»**. Результаты воспроизводят [исходную Google-таблицу](https://docs.google.com/spreadsheets/d/1eqROJSJggUz9f7V3TO8Hx18-0x1MoO2HRUv8ptMTKsc/edit), проверенную 02.11.2026. Значения округлены до четырёх знаков.
 
+[MVP выбранной системы](phases/phase-01-concept-selection/mvp.md) определяет трёх акторов, 12 Use Cases, исключения и критерии приёмки.
+
 Оценки E3 рассчитаны как медианы трёх остальных анкет; это производные оценки, а не независимо собранное четвёртое мнение. [Происхождение данных и ограничения](phases/phase-01-concept-selection/expert-ratings.md).
 
 ## Результат МАИ
@@ -63,6 +67,7 @@
 ```text
 project-management/
 ├── README.md
+├── PLAN.md
 ├── RACI.md
 ├── TASKS.md
 ├── .gitignore
@@ -78,6 +83,7 @@ project-management/
 │   │   ├── topsis.md
 │   │   ├── ahp.md
 │   │   ├── analysis.md
+│   │   ├── mvp.md
 │   │   └── artifacts/
 │   │       ├── README.md
 │   │       └── phase-01-topsis.xlsx
