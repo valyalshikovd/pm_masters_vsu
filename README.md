@@ -6,10 +6,10 @@
 
 | Код | Участник | GitHub |
 |---|---|---|
-| E1 | Шестопалов Н. М. | TODO |
-| E2 | Михайлов Н. П. | TODO |
-| E3 | Валяльщиков Д. А. | TODO |
-| E4 | Мирошников А. С. | TODO |
+| E1 | Шестопалов Н. М. | [@Shest0pal0v](https://github.com/Shest0pal0v) |
+| E2 | Михайлов Н. П. | [@nikhaylov](https://github.com/nikhaylov) |
+| E3 | Валяльщиков Д. А. | [@valyalshikovd](https://github.com/valyalshikovd) |
+| E4 | Мирошников А. С. | [@Arleqquinn](https://github.com/Arleqquinn) |
 
 ## Фазы
 
@@ -92,10 +92,10 @@ project-management/
 
 - Ветки: `phase-N/<номер>-<задача>`, например `phase-1/07-topsis`.
 - Изменения проходят Pull Request с проверкой другим участником.
-- Задачи ведутся в GitHub Issues по [шаблону](.github/ISSUE_TEMPLATE/task.md). Адрес будущего репозитория и трекера: TODO.
+- Задачи ведутся в [GitHub Issues](https://github.com/valyalshikovd/pm_masters_vsu/issues) по [шаблону](.github/ISSUE_TEMPLATE/task.md).
 - [TASKS.md](TASKS.md) — перечень задач; [RACI.md](RACI.md) — черновик ответственности.
 - Плановые часы и фактическое чистое время учитываются отдельно. Неизвестные даты и часы обозначены TODO.
 - [Журнал работы](docs/README.md) нужен для недельной статистики фазы 4; [протоколы встреч](meetings/README.md) фиксируют решения.
 - [Итоговый отчёт](report/README.md) пока является заготовкой.
 
-Репозиторий подготовлен локально. Публикация, GitHub Issues и PR появятся после настройки GitHub; локальные файлы не являются доказательством их создания.
+Репозиторий опубликован: [valyalshikovd/pm_masters_vsu](https://github.com/valyalshikovd/pm_masters_vsu). Фактическая работа фиксируется через Issues, ветки, коммиты и Pull Requests.
