@@ -98,7 +98,7 @@ project-management/
 
 - Ветки: `phase-N/<номер>-<задача>`, например `phase-1/07-topsis`.
 - Изменения проходят Pull Request с проверкой другим участником.
-- Задачи ведутся в [GitHub Issues](https://github.com/valyalshikovd/pm_masters_vsu/issues) по [шаблону](.github/ISSUE_TEMPLATE/task.md), сводный статус — в [GitHub Projects](https://github.com/users/valyalshikovd/projects/1).
+- Задачи ведутся в [GitHub Issues](https://github.com/valyalshikovd/pm_masters_vsu/issues) по [шаблону](.github/ISSUE_TEMPLATE/task.md), сводный статус — в [GitHub Projects](https://github.com/users/valyalshikovd/projects/1). В трекере 8 родительских задач и 43 подзадачи по фазам 1–5 и итоговому отчёту.
 - [TASKS.md](TASKS.md) — перечень задач; [RACI.md](RACI.md) — черновик ответственности.
 - Плановые часы и фактическое чистое время учитываются отдельно. Неизвестные даты и часы обозначены TODO.
 - [Журнал работы](docs/README.md) нужен для недельной статистики фазы 4; [протоколы встреч](meetings/README.md) фиксируют решения.
