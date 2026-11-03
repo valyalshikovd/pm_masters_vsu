@@ -11,7 +11,7 @@
 | E3 | Валяльщиков Д. А. | [@valyalshikovd](https://github.com/valyalshikovd) |
 | E4 | Мирошников А. С. | [@Arleqquinn](https://github.com/Arleqquinn) |
 
-[План закрытия открытых работ](PLAN.md)
+[План закрытия открытых работ](PLAN.md) · [GitHub Projects](https://github.com/users/valyalshikovd/projects/1)
 
 ## Фазы
 
@@ -98,7 +98,7 @@ project-management/
 
 - Ветки: `phase-N/<номер>-<задача>`, например `phase-1/07-topsis`.
 - Изменения проходят Pull Request с проверкой другим участником.
-- Задачи ведутся в [GitHub Issues](https://github.com/valyalshikovd/pm_masters_vsu/issues) по [шаблону](.github/ISSUE_TEMPLATE/task.md).
+- Задачи ведутся в [GitHub Issues](https://github.com/valyalshikovd/pm_masters_vsu/issues) по [шаблону](.github/ISSUE_TEMPLATE/task.md), сводный статус — в [GitHub Projects](https://github.com/users/valyalshikovd/projects/1).
 - [TASKS.md](TASKS.md) — перечень задач; [RACI.md](RACI.md) — черновик ответственности.
 - Плановые часы и фактическое чистое время учитываются отдельно. Неизвестные даты и часы обозначены TODO.
 - [Журнал работы](docs/README.md) нужен для недельной статистики фазы 4; [протоколы встреч](meetings/README.md) фиксируют решения.
